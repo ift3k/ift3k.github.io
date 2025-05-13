@@ -11,6 +11,7 @@ Ethical hacker. Ex-SOC Specialist, Developer. Securing the grid since 2018. From
 ---
 
 ### 🛠 **> /bin/skills**  
+
 | **Skill**           | **Tools**                     |
 |---------------------|-------------------------------|
 | Penetration Testing | Burp Suite, Nmap, Metasploit  |
